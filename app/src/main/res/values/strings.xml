@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AgendaSQLite</string>
+
+    <!-- LOGIN -->
+    <string name="btn_entrar">Entrar</string>
+    <string name="txt_usuario">Usuário</string>
+    <string name="txt_senha">Senha</string>
+    <string name="msg_senha_invalida">Usuário/Senha Inválido(a)!</string>
+
+    <!-- INSERIR -->
+    <string name="txt_nome">Nome</string>
+    <string name="txt_fone">Fone</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="msg_camposobrigatorios">Campos Obrigatórios!</string>
+
+    <!-- ALTERAR -->
+    <string name="btn_excluir">Excluir</string>
+    <string name="msg_alterado">Registro Alterado com Sucesso.</string>
+    <string name="msg_excluido">Registro Excluído com Sucesso.</string>
+
+    <!-- CONSULTAR -->
+    <string name="btn_novocontato">Novo Contato</string>
+    <string name="btn_sair">Sair</string>
+
+</resources>
